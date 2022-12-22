@@ -1,5 +1,5 @@
-foods = ['egg', 'bacon', 'porchnel', 'oatmeal']
-price = [5000, 5000, 5000, 5000]
+foods = ['egg', 'bacon', 'porchnel', 'oatmeal', 'poached egg']
+price = [5000, 5000, 5000, 5000, 5000]
 
 input = int(input("select your desired food: "))
 
