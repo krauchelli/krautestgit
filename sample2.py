@@ -1,4 +1,12 @@
-use them however you like!
-
-
-but! dont ever do this unless you know what are you doing
+a = 1
+b = 2
+c = 200
+i = 0
+lst = []
+while i < c:
+    a += b
+    lst.append(a)
+    print(lst)
+    i += 1
+    
+    
